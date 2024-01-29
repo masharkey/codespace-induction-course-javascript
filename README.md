@@ -1,4 +1,4 @@
-# codespace-induction-course-javascript
+# codespace-induction-course
 
 Exercises and portfolio associated wth the self-paced CodeSpace Induction course delivered via Edinburgh College 2023/24
 
