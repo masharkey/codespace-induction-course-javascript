@@ -8,6 +8,6 @@
 - aggregate functions
 - grouping data
 - subqueries (part 1)
-- sunqueries (part 2)
+- subqueries (part 2)
 - modifying data
 
